@@ -1,0 +1,15 @@
+{
+    "data1": {
+        "color_list": [
+            "red",
+            "green",
+            "blue"
+        ]
+    },
+    "data2": {
+        "color_list": [
+            "red",
+            "blue"
+        ]
+    }
+}
